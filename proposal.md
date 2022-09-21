@@ -29,8 +29,8 @@
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
   1. Show visualization for the drinks user made
-  2. Have visual option to show/add the workflow
-    (such as dragging boxes and connecting)
+  2. Have visual option to show/add to the workflow
+    (such as creating boxes with input fields and connecting them)
   3. Show timer and alerts user to do certain step when appropriate
   4. Have the app work on different platforms
   5. Let users order coffee beans
