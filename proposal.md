@@ -18,6 +18,7 @@
   4. User can input tasting notes
   5. User can choose a popular template + input amount of coffee and program will automatcially calculate amount of water and other stuff needed to brew a specific ratio.
   6. Keep track of all the drinks user made
+  7. User can log in
 
 ### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 
@@ -25,6 +26,8 @@
   React for component rendering
   CSS for styling
   JavaScript for scripting
+  Firebase for account management
+  GitHub Pages for hosting (if possible)
 
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
@@ -34,7 +37,7 @@
   3. Show timer and alerts user to do certain step when appropriate
   4. Have the app work on different platforms
   5. Let users order coffee beans
-
+  6. User's data is synced when logged in
 
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
