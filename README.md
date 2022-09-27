@@ -13,10 +13,12 @@
 * _JavaScript_
 * _CSS_
 * _Electron_
+* _React_
+* _Firebase_
 
 ## Description
 
-An app that's available on desktop, online, and mobile devices that keeps track of coffee making workflow. User can input the type of brew method, weight, temperature, tasting notes and other information and view them later.
+An app that's available on Windows that keeps track of coffee making workflow. User can input the type of brew method, weight, temperature, tasting notes and other information and view them later.
 
 ## Setup/Installation Requirements
 _Requires console application such as Git Bash, Terminal, or PowerShell_

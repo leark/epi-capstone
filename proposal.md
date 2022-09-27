@@ -6,8 +6,7 @@
 
 ### Project's Purpose or Goal: (What will it do for users?)
 
-  Purpose of the project is to create an app that's available both on desktop, online, and mobile devices that keeps track of coffee making workflow. User can input what type of brew method, weight, temperature, tasting notes and other pertinent information.
-
+  Purpose of the project is to create an app that's available on Windows that keeps track of coffee making workflow. User can input what type of brew method, weight, temperature, tasting notes and other information that can be viewed later. Electron is a Chromium based framework that can be used to build a desktop based application for Windows, Mac, and Linux.
 
 ### List the absolute minimum features the project requires to meet this purpose or goal:
 
@@ -23,21 +22,25 @@
 ### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 
   Electron as base framework
+  JavaScript for scripting
   React for component rendering
   CSS for styling
-  JavaScript for scripting
   Firebase for account management
-  GitHub Pages for hosting (if possible)
+  Local database (initially JSON file and option to use Firebase as stretch goal)
+  (Undecided on UI Library)
 
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
-  1. Show visualization for the drinks user made
-  2. Have visual option to show/add to the workflow
+  1. User's data is synced when logged in
+  2. Show visualization for the drinks user made
+  3. Have visual option to show/add to the workflow
     (such as creating boxes with input fields and connecting them)
-  3. Show timer and alerts user to do certain step when appropriate
-  4. Have the app work on different platforms
-  5. Let users order coffee beans
-  6. User's data is synced when logged in
+  4. Show timer and alerts user to do certain step when appropriate
+  5. Have the app work on different platforms
+  6. Let users order coffee beans
+  7. Make it work on Linux (not sure on which)
+  8. Make it work on a browser
+  9. Make it work on a Mac
 
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
