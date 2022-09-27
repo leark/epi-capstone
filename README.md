@@ -1,6 +1,6 @@
 # Coffeetron
 
-#### By _Seung Lee
+#### By _Seung Lee_
 
 #### _A coffee workflow app_
 
