@@ -5,7 +5,7 @@
 ---
 ### Project's Purpose or Goal: (What will it do for users?)
 
-    Purpose of the project is to create an app that's available on Windows that keeps track of coffee making workflow. User can input what type of brew method, weight, temperature, tasting notes and other information that can be viewed later. Electron is a Chromium based framework that can be used to build a desktop based application for Windows, Mac, and Linux. Thus as a stretch goal, the project can be scaled to be available on different platforms as well.
+Purpose of the project is to create an app that's available on Windows that keeps track of coffee making workflow. User can input what type of brew method, weight, temperature, tasting notes and other information that can be viewed later. Electron is a Chromium based framework that can be used to build a desktop based application for Windows, Mac, and Linux. Thus as a stretch goal, the project can be scaled to be available on different platforms as well.
 
 ---
 
