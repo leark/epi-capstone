@@ -21,4 +21,5 @@
 
 #### Wednesday, 9/28
 * 3:30: (Still jet lagged) start working on prototype Electron app
-* 4:39: Find and fix node version issues with nvm
+* 4:39: Find and fix node version issues with nvm to install Electron
+* 6:45: First git commit after setting up configs, boilerplate, etc
