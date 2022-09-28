@@ -21,3 +21,4 @@
 
 #### Wednesday, 9/28
 * 3:30: (Still jet lagged) start working on prototype Electron app
+* 4:39: Find and fix node version issues with nvm
