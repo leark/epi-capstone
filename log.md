@@ -18,3 +18,6 @@
 * 3:45: [React with Electron](https://blog.codemagic.io/building-electron-desktop-apps-with-react/)
 * 4:08: Found [some](https://slack.engineering/interops-labyrinth-sharing-code-between-web-electron-apps/) [good](https://slack.engineering/rebuilding-slack-on-the-desktop/) resources on sharing code between Electron and web app by the Slack team
 * 4:20: Start modifying the look of log/proposal/README
+
+#### Wednesday, 9/28
+* 3:30: (Still jet lagged) start working on prototype Electron app
