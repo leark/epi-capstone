@@ -40,4 +40,5 @@
 * 9:00: Resume prototype work
 * 10:00: Continue working on prototype
 * 11:40: Getting API to work on prototype
-* 14:10: Encounter issues following the codemagic tutorial
+* 14:10: Encounter issues following the codemagic tutorial (they want you to use their product)
+* 14:43: Solve issue with launching Electron version of the app
