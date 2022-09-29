@@ -5,6 +5,7 @@
 #### _A coffee workflow app_
 
 #### [Link to Proposal](/proposal.md)
+
 #### [Link to Log](/log.md)
 
 ## Technologies That Will Be Used
@@ -21,6 +22,7 @@
 An app that's available on Windows that keeps track of coffee making workflow. User can input the type of brew method, weight, temperature, tasting notes and other information and view them later.
 
 ## Setup/Installation Requirements
+
 _Requires console application such as Git Bash, Terminal, or PowerShell_
 
 1. Open Git Bash or PowerShell if on Windows and Terminal if on Mac

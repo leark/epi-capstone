@@ -1,5 +1,11 @@
-### Research & Planning
+# Log
+
+## Research & Planning
+
+### First Week
+
 #### Friday, 09/16
+
 * 8:20: Leave house
 * 10:40: Arrive at airport
 * 11:00: In line at security
@@ -12,7 +18,10 @@
 * _20:00: Resume working on initial proposal_
 * _22:50: Finish initial proposal_
 
+### Second & Third Week
+
 #### Tuesday, 9/27
+
 * 3:30: Start polishing the proposal and create README.md
 * 3:40: Researching setting up Electron app and what UI library to use
 * 3:45: [React with Electron](https://blog.codemagic.io/building-electron-desktop-apps-with-react/)
@@ -20,6 +29,13 @@
 * 4:20: Start modifying the look of log/proposal/README
 
 #### Wednesday, 9/28
+
 * 3:30: (Still jet lagged) start working on prototype Electron app
 * 4:39: Find and fix node version issues with nvm to install Electron
 * 6:45: First git commit after setting up configs, boilerplate, etc
+* 20:10: Continue working on the prototype
+
+#### Thursday, 9/29
+
+* 9:00: Resume prototype work
+* 10:00: Continue working on prototype
