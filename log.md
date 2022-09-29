@@ -39,3 +39,5 @@
 
 * 9:00: Resume prototype work
 * 10:00: Continue working on prototype
+* 11:40: Getting API to work on prototype
+
