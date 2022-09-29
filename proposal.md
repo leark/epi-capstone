@@ -35,7 +35,7 @@ Purpose of the project is to create an app that's available on Windows that keep
 * CSS for styling
 * Firebase for account management
 * Local database (initially JSON file and option to use Firebase as stretch goal)
-* (Undecided on UI Library)
+* (Undecided on UI Library -> Bootstrap vs. Tailwind)
 
 ---
 

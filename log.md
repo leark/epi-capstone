@@ -42,3 +42,5 @@
 * 11:40: Getting API to work on prototype
 * 14:10: Encounter issues following the codemagic tutorial (they want you to use their product)
 * 14:43: Solve issue with launching Electron version of the app
+* 15:05: Another React + Electron [guide](https://medium.com/free-code-camp/building-an-electron-application-with-create-react-app-97945861647c)
+* 16:07: Rough draft of component tree for splash page
