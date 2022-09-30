@@ -44,3 +44,8 @@
 * 14:43: Solve issue with launching Electron version of the app
 * 15:05: Another React + Electron [guide](https://medium.com/free-code-camp/building-an-electron-application-with-create-react-app-97945861647c)
 * 16:07: Rough draft of component tree for splash page
+
+#### Friday, 9/30
+
+* 9:00: Start research into file management with JavaScript
+* 11:30: https://developer.mozilla.org/en-US/docs/Web/API/FileReader
