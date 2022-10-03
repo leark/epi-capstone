@@ -1,4 +1,4 @@
-# Coffeetron
+# Electron-Coffee
 
 #### By _Seung Lee_
 

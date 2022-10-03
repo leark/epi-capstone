@@ -55,3 +55,7 @@
 * 2:30: Refactor help-queue to understand hooks better
 * 3:30: Continuing to refactor
 * 4:30: Continuing to refactor
+* 5:00: Complete refactor
+* 6:00: Start working on Electron-Coffee
+* 7:00: Off to water the garden
+* 8:00: Back from watering the garden
