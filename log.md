@@ -49,3 +49,8 @@
 
 * 9:00: Start research into file management with JavaScript
 * 11:30: https://developer.mozilla.org/en-US/docs/Web/API/FileReader
+
+### Monday, 10/03
+
+* 2:30: Refactor help-queue to understand hooks better
+* 3:30: Continuing to refactor
