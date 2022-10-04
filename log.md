@@ -62,3 +62,5 @@
 * 8:43: Resume work on Electron-Coffee
 * 9:40: Electron-Coffee WIP. Add TailwindCSS
 * 2:40: Electron-Coffee WIP.
+* 4:00: Electron-Coffee WIP Add new form.
+* 5:10: Electron-Coffee WIP.
