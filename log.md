@@ -68,4 +68,5 @@
 ### Tuesday, 10/04
 
 * 8:24: Electron-Coffee WIP.
-
+* 9:26: Electron-Coffee WIP. Adding step
+* 10:23: Electron-Coffee WIP.
