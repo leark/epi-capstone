@@ -72,3 +72,4 @@
 * 10:23: Electron-Coffee WIP.
 * 12:00: Electron-Coffee WIP. Add step
 * 14:49: Electron-Coffee WIP. Adding file save
+* 16:18: Electron-Coffee WIP. Loading from file
