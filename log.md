@@ -78,3 +78,4 @@
 
 * 9:44: Electron-Coffee WIP
 * 11:20: Electron-Coffee WIP
+* 13:00: Electron-Coffee WIP. Loading from file done
