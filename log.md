@@ -90,3 +90,5 @@
 * 7:00: Electron-Coffee WIP
 * 8:00: Electron-Coffee WIP
 * 9:16: Electron-Coffee WIP. Load templates
+* 10:00: Build exe file
+* 11ish: Present
