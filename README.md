@@ -28,11 +28,11 @@ _Requires console application such as Git Bash, Terminal, or PowerShell_
 1. Open Git Bash or PowerShell if on Windows and Terminal if on Mac
 2. Run the command
 
-    ``git clone https://github.com/leark/epi-capstone.git``
+    ``git clone https://github.com/leark/electron-coffee.git``
 
 3. Run the following command in the console
 
-    ``cd epi-capstone``
+    ``cd electron-coffee``
 
 4. Run the following command in the console
 
