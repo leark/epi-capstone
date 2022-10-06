@@ -50,7 +50,9 @@
 * 9:00: Start research into file management with JavaScript
 * 11:30: https://developer.mozilla.org/en-US/docs/Web/API/FileReader
 
-### Monday, 10/03
+### Capstone Week
+
+#### Monday, 10/03
 
 * 2:30: Refactor help-queue to understand hooks better
 * 3:30: Continuing to refactor
@@ -65,7 +67,7 @@
 * 16:00: Electron-Coffee WIP Add new form.
 * 17:10: Electron-Coffee WIP.
 
-### Tuesday, 10/04
+#### Tuesday, 10/04
 
 * 8:24: Electron-Coffee WIP.
 * 9:26: Electron-Coffee WIP. Adding step
@@ -74,7 +76,7 @@
 * 14:49: Electron-Coffee WIP. Adding file save
 * 16:18: Electron-Coffee WIP. Loading from file
 
-### Wednesday, 10/05
+#### Wednesday, 10/05
 
 * 9:44: Electron-Coffee WIP
 * 11:20: Electron-Coffee WIP
