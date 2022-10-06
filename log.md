@@ -80,3 +80,4 @@
 * 11:20: Electron-Coffee WIP
 * 13:00: Electron-Coffee WIP. Loading from file done
 * 15:20: Electron-Coffee WIP. Styling
+* 20:13: Electron-Coffee WIP. Loading from template file
